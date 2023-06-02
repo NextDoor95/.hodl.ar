@@ -33,25 +33,25 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/next.door_/
 
- - title: Twitter
-   icon: twitter
-   url: https://twitter.com/NextDoor95
-    
- - title: LinkedIn # Este es el nombre del botón
-   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-   url: https://www.linkedin.com/in/nextdoor-frontend/ # Link a donde redireccionará al hacer click
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/NextDoor95
 
- - title: Github
-   icon: github
-   url: https://github.com/NextDoor95
+  - title: LinkedIn # Este es el nombre del botón
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+    url: https://www.linkedin.com/in/nextdoor-frontend/ # Link a donde redireccionará al hacer click
 
- - title: Sitio Web
-   icon: url
-   url: https://nextdoor95.github.io/PortfolioWeb/
+  - title: Github
+    icon: github
+    url: https://github.com/NextDoor95
 
- - title: Telegram
-   icon: telegram
-   url: https://t.me/NextDoor95
+  - title: Sitio Web
+    icon: url
+    url: https://nextdoor95.github.io/PortfolioWeb/
+
+  - title: Telegram
+    icon: telegram
+    url: https://t.me/NextDoor95
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
